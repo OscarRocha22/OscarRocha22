@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi I'm Oscar Rocha
 
-<!--
-**OscarRocha22/OscarRocha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying data science at ITESO University. I'm passionate abot sentiment analysis, biological and astronomical research through data analysis, AI, and machine learning.
 
-Here are some ideas to get you started:
+# 📊 Areas of focus:
+  - Data analysis
+  - Image recognition and clasification
+  - Machine learning for research
+  - Strategic decision making
+  - Data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 I’m currently learning: 
+  - Deep learning
+  - Non-linear models for forecasting
+  - Financial Analysis
+  - Bioethics
+
+# 📫 How to reach me: 
+rochaoscar2214@gmail.com
+
+---
+
+# 💻 Coding & Tools
+<img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white >
+
