@@ -21,5 +21,6 @@ rochaoscar2214@gmail.com
 ---
 
 # 💻 Coding & Tools
-<img src=https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white >
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
+
 
